@@ -1,2 +1,4 @@
 # Logo-Quiz-iOs
-A simple Logo Quiz iOs app 
+A simple Logo Quiz iOS app.
+
+`Swift` `iOS`
