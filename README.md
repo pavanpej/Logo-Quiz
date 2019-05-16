@@ -1,4 +1,5 @@
-# Logo-Quiz-iOs
-A simple Logo Quiz iOS app.
+# Quizr - A Logo Quiz App
+
+This is a simple Logo Quiz app made in iOS.
 
 `Swift` `iOS`
